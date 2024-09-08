@@ -1,4 +1,10 @@
 # SPRINT-3-CHALLENGE-IOT
+
+## Link para o vídeo 
+
+[Assista ao vídeo de demonstração aqui](https://youtu.be/Eg3bAA4wQtk)
+
+
 ## Colaboradores
 
 - **Enzo Ross Gallone** – 551754 - 2TDSPM
